@@ -1,0 +1,14 @@
+/vendor
+/node_modules
+.env*
+.idea/
+:memory
+.sass-cache/
+composer.phar
+composer.lock
+.DS_Store
+Thumbs.db
+tests/_log/*
+_ide_helper.php
+npm-debug.log
+*.volt.php
